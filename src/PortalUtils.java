@@ -213,7 +213,6 @@ public class PortalUtils {
 			EntityType.PARROT,
 			// EntityType.PHANTOM,
 			EntityType.PIG,
-			EntityType.PIG_ZOMBIE,
 			EntityType.PILLAGER,
 			// EntityType.PLAYER,
 			EntityType.POLAR_BEAR,
@@ -255,6 +254,14 @@ public class PortalUtils {
 			EntityType.ZOMBIE,
 			EntityType.ZOMBIE_HORSE,
 			EntityType.ZOMBIE_VILLAGER
+		
+			//1.16 Mobs
+			EntityType.PIGLIN,
+			EntityType.PIGLIN_BRUTE,
+			EntityType.ZOMBIFIED_PIGLIN,
+			EntityType.STRIDER,
+			EntityType.HOGLIN,
+			EntityType.ZOGLIN
 					));
 
 }
